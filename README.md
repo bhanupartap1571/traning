@@ -1,3 +1,3 @@
 # traning
-This is my first repository
-founder = bhanu
+This is my first repository.
+ Founder = bhanu
